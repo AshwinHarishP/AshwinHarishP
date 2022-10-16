@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshwinHarishP
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning 2nd Year CSE
-- 💞️ I’m intrested in making projects and i am collabrating with https://github.com/aravindshivakumar
+- 💞️ I’m intrested in making projects.
 - 📫 How to reach me +91 6382886871
 
 <!---
@@ -21,17 +21,18 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Cybersecurity in Coursera,IBM and Udemy**
 
-- 👯 I’m collaborating with Aravindshivakumar **https://github.com/aravindshivakumar**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AshwinHarishP](https://github.com/AshwinHarishP)
 
 - 📫 How to reach me **ashwinharishp@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true](https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true](https://docs.google.com/document/d/140hyH0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharin&ouid=109876772913984288894&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am a slightly overthinker which helps to solve bugs when i overthink.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </br>
+Linkdin: https://www.linkedin.com/in/ashwin-harish-p/  </br>
+Twitter: https://twitter.com/AshwinHarishP
+</h3>
 <p align="left">
 </p>
 
