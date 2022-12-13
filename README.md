@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @AshwinHarishP
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning 2nd Year CSE
-- 💞️ I’m intrested in making projects.
-- 📫 How to reach me +91 6382886871
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99186533/207327992-1eb94d69-7552-4687-b835-8993b2ed3c8b.gif" />
+</p>
 
-<!---
-AshwinHarishP/AshwinHarishP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👋 Hi, I’m <a href="https://drive.google.com/file/d/1pG6ffeTZKdCqTAt0_OlMhcJrj7NctMTd/view?usp=sharing" target="_blank">@AshwinHarishP</a> <br/>
+I'm pursuing B.E Computer Science at KPR Institute Of Engineering And Technology-Coimbatore.At NxtWave’s CCBP 4.0 Academy, I’m currently learning full-stack development with a specialisation in 4.0 technologies and learning cybersecurity in Coursera,Udemy and IBM In love with the coding challenges and hands-on projects. With Industry’s first ever IRC 4.0, getting ready to take on new challenges in the tech world. <br/>I proud to say that I am a IEEE Member.<br/>Looking for an intersnhips or projects from company/client <br/>
+
 <h1 align="center"> I'm Ashwin Harish.P 👋, </h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
