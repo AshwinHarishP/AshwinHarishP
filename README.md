@@ -145,7 +145,7 @@
  <p> 
   <ul>
     <li> My Resume: <a href="https://drive.google.com/file/d/1pG6ffeTZKdCqTAt0_OlMhcJrj7NctMTd/view?usp=sharing" target=_blank>Click here</a> </li><br/>
-    <li> My Creedly Profile <a href="https://www.credly.com/earner/earned" target=_blank>Click here</a> </li><br/>
+    <li> My Credly Profile <a href="https://www.credly.com/earner/earned" target=_blank>Click here</a> </li><br/>
     <li> To share/view my projects:<a href="https://github.com/AshwinHarishP" target=_blank> Click here</a> </li><br/>
     Fun fact about me: I am a slightly overthinker which helps to solve bugs when i overthink.
 </p>
