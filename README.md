@@ -127,10 +127,15 @@
 <h2> Stats </h2>
 
 <div align="center">
-  <img margin="10" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AshwinHarishP" height="200" alt="stats graph"  />
+  <img margin="10" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=burnt-neon&locale=en&hide_border=true&username=AshwinHarishP" height="200" alt="stats graph"  />
+  
   <img margin="10" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AshwinHarishP" height="200" alt="languages graph"  />
 </div>
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshwinHarishP&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
+</div
+  
 ###
 <h2>Contact me </h2>
 <p>
