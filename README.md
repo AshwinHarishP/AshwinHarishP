@@ -126,14 +126,17 @@
 
 <h2> Stats </h2>
 
-<div>
-  <img align= "left" margin="10" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&icon_color=FBCA04&title_color=FBCA04&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=AshwinHarishP" height="200" alt="stats graph"  />
-  
-  <img margin-right="20px" margin="10" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=dark&icon_color=FBCA04&title_color=FBCA04&hide_border=false&username=AshwinHarishP" height="200" alt="languages graph"  /> </br> </br>
+<div align= "center">
+  <img margin="10" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&icon_color=FBCA04&title_color=FBCA04&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&card_width=470&username=AshwinHarishP" height="200" alt="stats graph"  /> </div> </br>
+</div>
+
+<div align="center">
+  <img margin="10" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&icon_color=FBCA04&title_color=FBCA04&hide_border=false&username=AshwinHarishP" height="200" alt="languages graph" />
+  <br /><br />
 </div>
 <div align="center" >
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AshwinHarishP&height="200"&theme=dark&icon_color=FBCA04&title_color=FBCA04&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshwinHarishP&height="200"&theme=dark&card_width=485&icon_color=FBCA04&title_color=FBCA04&hide_border=false)](https://git.io/streak-stats)
 
 <br>
 
