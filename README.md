@@ -129,7 +129,7 @@
 <div>
   <img align= "left" margin="10" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&icon_color=FBCA04&title_color=FBCA04&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=AshwinHarishP" height="200" alt="stats graph"  />
   
-  <img margin-left="20px" margin="10" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=dark&icon_color=FBCA04&title_color=FBCA04&hide_border=false&username=AshwinHarishP" height="200" alt="languages graph"  /> </br> </br>
+  <img margin-right="20px" margin="10" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=dark&icon_color=FBCA04&title_color=FBCA04&hide_border=false&username=AshwinHarishP" height="200" alt="languages graph"  /> </br> </br>
 </div>
 <div align="center" >
 
